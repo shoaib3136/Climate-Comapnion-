@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #map {
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  #weather-info {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  

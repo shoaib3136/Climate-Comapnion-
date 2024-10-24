@@ -1,1 +1,5 @@
 List of  images
+1. user interface of the application climate companion
+2. once the destination city is entered it shows the possible route
+3. and if the user presses the start journey button ,then it will check the weather along the route and if it is in safe condition then it will display the 
+4. and if the weather is not safe then the route is not displayed till it fetches new route of good weather using maps javascript api
